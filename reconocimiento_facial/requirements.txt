@@ -1,0 +1,11 @@
+# Librerias del proyecto (instalar dentro del entorno virtual)
+# 1) pip install -r requirements.txt
+# 2) pip install face_recognition_models
+# 3) pip install face_recognition --no-deps   (se instala aparte para evitar que compile dlib)
+opencv-python
+numpy
+sympy
+dlib-bin
+Pillow
+Click
+setuptools<81
